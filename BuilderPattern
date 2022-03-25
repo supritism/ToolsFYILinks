@@ -1,0 +1,7 @@
+Builder Design Pattern : 
+The builder pattern, as the name implies, is an alternative way to construct complex objects. 
+This pattern should be used when we want to build different immutable objects using the same object building process.
+
+
+Links : https://howtodoinjava.com/design-patterns/creational/builder-pattern-in-java/ and https://howtodoinjava.com/lombok/lombok-builder-annotation/ 
+
